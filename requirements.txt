@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+google-generativeai
+openai
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+tenacity
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+FlagEmbedding
+marker-pdf[full]
+vllm
